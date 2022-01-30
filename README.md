@@ -17,6 +17,8 @@ STS, Java 8, Spring Boot (version 2.6.2), Jpa, Hibernate, H2Database kullanıld�
 - http://localhost:8080/api/url?= (parse olacak sitemap url linkini ekleyip çalıştırmalıdır).
 - http://localhost:8080/api/url?url=https://www.hurriyet.com.tr/sitemaps/newssitemap.xml
 - http://localhost:8080/h2-console database dataların kontrollerini sağlıyoruz.
+  ![image](https://user-images.githubusercontent.com/7461070/151716707-63a37792-3ed5-43e1-9d66-470a5edcba71.png)
+
 
   http://localhost:8080/api/url?url=https://www.hurriyet.com.tr/sitemaps/newssitemap.xml
 
